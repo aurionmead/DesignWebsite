@@ -250,7 +250,9 @@ a{
     color: #fff;
     cursor: pointer;
 }
-
+a:hover{
+    text-decoration: underline;
+}
 
 
 
